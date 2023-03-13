@@ -1,0 +1,13 @@
+
+> @mono/mfe-1@0.1.0 build /Users/mohammedalfaiez/Documents/mono-microfrontend/apps/mfe-1
+> webpack --mode production
+
+16 assets
+755 modules
+
+WARNING in asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+This can impact web performance.
+Assets: 
+  js/870.302.js (478 KiB)
+
+webpack 5.72.1 compiled with 1 warning in 7447 ms
